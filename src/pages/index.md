@@ -7,7 +7,10 @@ banner:
     is_scrolly: true
     label: Learn More
     url: '#one'
-  subtitle: Amazing home page content right here.... Isn't this awesome!?
+  subtitle: >-
+    Welcome to my little slice of the web!  Here, you can learn more about the
+    work I keep myself busy with, things I've written, and stories which have
+    stirred me.  Use the menu to navigate, or simply scroll down for more!
   title: Thad S. Torix
 sections:
   - background_style: style1
