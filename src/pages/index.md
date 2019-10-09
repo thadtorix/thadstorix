@@ -15,7 +15,7 @@ banner:
     Blandit duis accumsan  
     arcu sagittis viverra  
     blandit at Interdum.
-  title: Spectral
+  title: Thad S. Torix
 sections:
   - background_style: style1
     component: Icons
