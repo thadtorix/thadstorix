@@ -1,6 +1,6 @@
 ---
-title: Generic Page
-subtitle: Aliquam ut ex ut interdum donec amet imperdiet eleifend
+title: Wedding Details page
+subtitle: more amazing content all about wedding services
 background_style: style5
 menus:
   main:
