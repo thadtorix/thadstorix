@@ -8,9 +8,12 @@ banner:
     label: Learn More
     url: '#one'
   subtitle: >-
-    Welcome to my little slice of the web!  Here, you can learn more about the
-    work I keep myself busy with, things I've written, and stories which have
-    stirred me.  Use the menu to navigate, or simply scroll down for more!
+    Welcome to my little slice of the web!  
+
+
+    Here, you can learn more about the work I keep myself busy with, things I've
+    written, and stories which have stirred me.  Use the menu to navigate, or
+    simply scroll down for more!
   title: Thad S. Torix
 sections:
   - background_style: style1
@@ -18,23 +21,16 @@ sections:
     feature_icons:
       - icon: fa-diamond
         style: style1
-        title: Lorem
+        title: This is the diamond icon... change to fb later?
       - icon: fa-heart-o
         style: style2
-        title: Ipsum
+        title: 'the heart icon, linked in?'
       - icon: fa-code
         style: style3
-        title: Dolor
+        title: 'the embed code, change to email'
     section_id: one
-    subtitle: >-
-      Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-      eleifend  
-
-      fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus
-      ullamcorper.  
-    title: |-
-      Arcu aliquet vel lobortis ata nisl
-      eget augue amet aliquet nisl cep donec
+    subtitle: This is the subtitle content area of the blue area
+    title: This is the title holder of the blue section
     type: icons
   - background_style: style2
     component: Spotlights
@@ -42,25 +38,19 @@ sections:
     spotlights:
       - home_img_path: images/pic01.jpg
         text: >-
-          Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
-        title: |-
-          Magna primis lobortis
-          sed ullamcorper
+          one part content of the first spotlight.  Weddings?  Link to the
+          weddings page
+        title: this is the first spotlight
       - home_img_path: images/pic02.jpg
         text: >-
           Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
           imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
-        title: |-
-          Tortor dolore feugiat
-          elementum magna
+        title: 'second spotlight, public speaking or education'
       - home_img_path: images/pic03.jpg
         text: >-
           Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
           imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
-        title: |-
-          Augue eleifend aliquet
-          sed condimentum
+        title: 'third spotlight, real estate team?'
     title: Spotlights Section
     type: spotlights
   - background_style: style3
@@ -70,7 +60,7 @@ sections:
         text: >-
           Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
           tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: Arcu accumsan
+        title: six areas of highlight maybe
       - icon: fa-laptop
         text: >-
           Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
@@ -97,12 +87,8 @@ sections:
           tincidunt nullam amet leo Aenean ligula consequat consequat.
         title: Tortor Ut
     section_id: three
-    subtitle: >-
-      Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-      eleifend  
-
-      fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
-    title: Accumsan mus tortor nunc aliquet
+    subtitle: content area for final blue section
+    title: last blue section near the bottom
     type: features
   - actions:
       - is_primary: true
