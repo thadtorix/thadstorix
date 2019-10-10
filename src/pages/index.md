@@ -29,11 +29,14 @@ sections:
     component: Spotlights
     section_id: two
     spotlights:
-      - home_img_path: images/pic01.jpg
+      - home_img_path: /images/rachel-kirby-kiss.jpg
         text: >-
-          one part content of the first spotlight.  Weddings?  Link to the
-          weddings page
-        title: this is the first spotlight
+          Are you looking for a minister for your big day?  Would you like a
+          minister who is more than just some stranger in a suit?  You can see
+          the story of how I came to take care of so many couples' big day and
+          why they recommend me for the very important job of officiating your
+          wedding, right here: linktoweddingpageurl
+        title: 'Minister, Encourager'
       - home_img_path: images/pic02.jpg
         text: >-
           Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
