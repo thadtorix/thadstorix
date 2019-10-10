@@ -13,9 +13,9 @@ sections:
   - background_style: style1
     component: Icons
     feature_icons:
-      - icon: fa-diamond
+      - icon: fa-facebook
         style: style1
-        title: This is the diamond icon... change to fb later?
+        title: facebook
       - icon: fa-heart-o
         style: style2
         title: 'the heart icon, linked in?'
