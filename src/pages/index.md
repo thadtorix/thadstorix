@@ -48,12 +48,6 @@ sections:
           For more information and a list of topics, click here: speaking
           teaching url
         title: 'Educator, Speaker, Public Servant'
-      - home_img_path: /images/logo-for-kcm.jpg
-        text: >-
-          If it's a conversation about Real Estate you're after, you'll find all
-          of that right here:
-          [TorixRealtyGroup.com](http://torixrealtygroup.com)
-        title: Were you looking for Torix Realty Group?
       - home_img_path: /images/512-headshot.png
         text: >-
           I don't write frequently enough to consider myself a "blogger"
@@ -66,6 +60,12 @@ sections:
           I've found helpful or exceptionally soul-stirring.  You can see those
           posts and links right here:  blog.thadstorix.com
         title: 'Things I''ve Written, Things Which Stir'
+      - home_img_path: /images/logo-for-kcm.jpg
+        text: >-
+          If it's a conversation about Real Estate you're after, you'll find all
+          of that right here:
+          [TorixRealtyGroup.com](http://torixrealtygroup.com)
+        title: Were you looking for Torix Realty Group?
     title: Spotlights Section
     type: spotlights
   - background_style: style3
