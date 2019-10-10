@@ -23,8 +23,14 @@ sections:
         style: style3
         title: 'the embed code, change to email'
     section_id: one
-    subtitle: This is the subtitle content area of the blue area
-    title: This is the title holder of the blue section
+    subtitle: >-
+      Welcome!  I'm glad you're here!  I hope you enjoy reading some of the
+      things I've written, or about some of the things I find a bit
+      soul-stirring.  This is also a good place to learn more about the topics I
+      enjoy teaching or speaking on as well as how you can hire me as your
+      minister for your upcoming wedding, vow renewal, or other special
+      ceremony!
+    title: Welcome to my little slice of the internet!
     type: icons
   - background_style: style2
     component: Spotlights
