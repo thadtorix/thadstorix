@@ -51,7 +51,7 @@ sections:
           For more information and a list of topics, click here: speaking
           teaching url
         title: 'Educator, Speaker, Public Servant'
-      - home_img_path: /images/logo9.gif
+      - home_img_path: /images/png9.png
         text: >-
           If it's a conversation about Real Estate you're after, you'll find all
           of that right here:
