@@ -51,7 +51,7 @@ sections:
           For more information and a list of topics, click here: speaking
           teaching url
         title: 'Educator, Speaker, Public Servant'
-      - home_img_path: /images/trg-logo.jpg
+      - home_img_path: /images/logo-for-kcm.jpg
         text: >-
           If it's a conversation about Real Estate you're after, you'll find all
           of that right here:
