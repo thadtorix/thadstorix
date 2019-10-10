@@ -24,12 +24,14 @@ sections:
         title: 'the embed code, change to email'
     section_id: one
     subtitle: >-
-      Welcome!  I'm glad you're here!  I hope you enjoy reading some of the
-      things I've written, or about some of the things I find a bit
-      soul-stirring.  This is also a good place to learn more about the topics I
-      enjoy teaching or speaking on as well as how you can hire me as your
-      minister for your upcoming wedding, vow renewal, or other special
-      ceremony!
+      Hello! I'm glad you're here!  I hope you enjoy reading some of the things
+      I've written, or about some of the things I find a bit soul-stirring. 
+      This is also a good place to learn more about the topics I enjoy teaching
+      or speaking on as well as how you can hire me as your minister for your
+      upcoming wedding, vow renewal, or other special ceremony!  
+
+
+      For highlights and more information, keep scrolling!
     title: Welcome to my little slice of the internet!
     type: icons
   - background_style: style2
