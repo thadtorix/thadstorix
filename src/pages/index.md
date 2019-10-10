@@ -37,11 +37,20 @@ sections:
           why they recommend me for the very important job of officiating your
           wedding, right here: linktoweddingpageurl
         title: 'Minister, Encourager'
-      - home_img_path: images/pic02.jpg
+      - home_img_path: /images/teach-dt4ems.jpg
         text: >-
-          Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
-        title: 'second spotlight, public speaking or education'
+          Since 1994, Thad has served as an EMT, Advanced EMT, Paramedic, Flight
+          Paramedic, 911 Dispatcher and Educator.
+
+
+          Taking particular pride in helping others , Thad enjoys presenting
+          material in a way that not only makes sense, but is useful and
+          relevant in their every day lives. 
+
+
+          For more information and a list of topics, click here: speaking
+          teaching url
+        title: 'Educator, Speaker, Public Servant'
       - home_img_path: images/pic03.jpg
         text: >-
           Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
