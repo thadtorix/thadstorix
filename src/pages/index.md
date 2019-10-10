@@ -54,6 +54,18 @@ sections:
           of that right here:
           [TorixRealtyGroup.com](http://torixrealtygroup.com)
         title: Were you looking for Torix Realty Group?
+      - home_img_path: /images/512-headshot.png
+        text: >-
+          I don't write frequently enough to consider myself a "blogger"
+          although, I do write from time to time and post what I've written for
+          your consideration.  Some are from personal experiences, a few from my
+          time as a paramedic and policeman.
+
+
+          Additionally, you can also find things I've found along the way which
+          I've found helpful or exceptionally soul-stirring.  You can see those
+          posts and links right here:  blog.thadstorix.com
+        title: 'Things I''ve Written, Things Which Stir'
     title: Spotlights Section
     type: spotlights
   - background_style: style3
