@@ -7,13 +7,7 @@ banner:
     is_scrolly: true
     label: Learn More
     url: '#one'
-  subtitle: >-
-    Welcome to my little slice of the web!  
-
-
-    Here, you can learn more about the work I keep myself busy with, things I've
-    written, and stories which have stirred me.  Use the menu to navigate, or
-    simply scroll down for more!
+  subtitle: Encourager | Friend | Advocate
   title: Thad S. Torix
 sections:
   - background_style: style1
