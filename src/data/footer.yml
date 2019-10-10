@@ -1,21 +1,21 @@
 social_icons:
-  - title: Twitter
-    icon: fa-twitter
+  - icon: fa-twitter
+    title: Twitter
     url: '#'
-  - title: Facebook
-    icon: fa-facebook
-    url: '#'
-  - title: Instagram
-    icon: fa-instagram
-    url: '#'
-  - title: Dribbble
-    icon: fa-dribbble
-    url: '#'
-  - title: Email
-    icon: fa-envelope-o
-    url: '#'
+  - icon: fa-facebook
+    title: Facebook
+    url: 'https://www.facebook.com/ThadSTorixLLC'
+  - icon: fa-instagram
+    title: Instagram
+    url: 'https://www.instagram.com/thadstorix/'
+  - icon: fa-dribbble
+    title: Linked In
+    url: 'https://www.linkedin.com/in/thadtorix/'
+  - icon: fa-envelope-o
+    title: Email
+    url: 'mailto:thadstorix@gmail.com'
 copyright: '&copy; Spectral'
 links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
-    new_window: true
+  - new_window: false
+    text: Return to Top
+    url: '#'
