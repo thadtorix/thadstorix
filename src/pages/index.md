@@ -102,7 +102,7 @@ sections:
         url: 'mailto:thadstorix@gmail.com'
       - is_primary: true
         is_scrolly: false
-        label: Things I've Written
+        label: Read More
         url: 'http://blog.thadstorix.com'
     background_style: style4
     component: Cta
