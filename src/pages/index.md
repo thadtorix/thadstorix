@@ -51,11 +51,12 @@ sections:
           For more information and a list of topics, click here: speaking
           teaching url
         title: 'Educator, Speaker, Public Servant'
-      - home_img_path: images/pic03.jpg
+      - home_img_path: /images/logo9.gif
         text: >-
-          Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
-        title: 'third spotlight, real estate team?'
+          If it's a conversation about Real Estate you're after, you'll find all
+          of that right here:
+          [TorixRealtyGroup.com](http://torixrealtygroup.com)
+        title: Were you looking for Torix Realty Group?
     title: Spotlights Section
     type: spotlights
   - background_style: style3
