@@ -65,27 +65,27 @@ sections:
         text: >-
           Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
           tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: Ac Augue Eget
+        title: Highlight 2
       - icon: fa-code
         text: >-
           Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
           tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: Mus Scelerisque
+        title: highlight 3
       - icon: fa-headphones
         text: >-
           Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
           tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: Mauris Imperdiet
+        title: highlight 4
       - icon: fa-heart-o
         text: >-
           Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
           tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: Aenean Primis
+        title: highlight 5
       - icon: fa-flag-o
         text: >-
           Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
           tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: Tortor Ut
+        title: highlight 6
     section_id: three
     subtitle: content area for final blue section
     title: last blue section near the bottom
@@ -102,10 +102,8 @@ sections:
     background_style: style4
     component: Cta
     section_id: cta
-    text: >-
-      Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet
-      eleifend fringilla.
-    title: Arcue ut vel commodo
+    text: call to action
+    title: Call to action
     type: cta
 menus:
   main:
