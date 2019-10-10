@@ -12,16 +12,7 @@ banner:
 sections:
   - background_style: style1
     component: Icons
-    feature_icons:
-      - icon: fa-facebook
-        style: style1
-        title: facebook
-      - icon: fa-heart-o
-        style: style2
-        title: 'the heart icon, linked in?'
-      - icon: fa-code
-        style: style3
-        title: 'the embed code, change to email'
+    feature_icons: []
     section_id: one
     subtitle: >-
       Hello! I'm glad you're here!  I hope you enjoy reading some of the things
@@ -32,7 +23,7 @@ sections:
 
 
       For highlights and more information, keep scrolling!
-    title: Welcome to my little slice of the internet!
+    title: Welcome to my slice of the internet!
     type: icons
   - background_style: style2
     component: Spotlights
