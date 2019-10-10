@@ -93,8 +93,10 @@ sections:
           tincidunt nullam amet leo Aenean ligula consequat consequat.
         title: highlight 6
     section_id: three
-    subtitle: ''
-    title: ' '
+    subtitle: >-
+      Below, you'll find a few of the more popular pages & posts from
+      ThadSTorix.com:
+    title: 'A Few Favorites '
     type: features
   - actions:
       - is_primary: true
