@@ -19,10 +19,7 @@ sections:
       I've written, or about some of the things I find a bit soul-stirring. 
       This is also a good place to learn more about the topics I enjoy teaching
       or speaking on as well as how you can hire me as your minister for your
-      upcoming wedding, vow renewal, or other special ceremony!  
-
-
-      For highlights and more information, keep scrolling!
+      upcoming wedding, vow renewal, or other special ceremony!
     title: Welcome to my slice of the internet!
     type: icons
   - background_style: style2
@@ -101,17 +98,21 @@ sections:
   - actions:
       - is_primary: true
         is_scrolly: false
-        label: Activate
-        url: /generic
-      - is_primary: false
+        label: Email
+        url: 'mailto:thadstorix@gmail.com'
+      - is_primary: true
         is_scrolly: false
-        label: Learn More
-        url: /generic
+        label: Things I've Written
+        url: 'http://blog.thadstorix.com'
     background_style: style4
     component: Cta
     section_id: cta
-    text: call to action
-    title: Call to action
+    text: >-
+      You can reach me most days by phone call or text at 417-213-1205, or send
+      an email to [ThadSTorix@Gmail.com](mailto:thadstorix@gmail.com) if you'd
+      rather.  I don't monitor that inbox super closely, so you may want to send
+      me a text to let me know you've sent one!
+    title: Get in Touch
     type: cta
 menus:
   main:
