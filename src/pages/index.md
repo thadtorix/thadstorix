@@ -93,8 +93,8 @@ sections:
           tincidunt nullam amet leo Aenean ligula consequat consequat.
         title: highlight 6
     section_id: three
-    subtitle: content area for final blue section
-    title: last blue section near the bottom
+    subtitle: ''
+    title: ' '
     type: features
   - actions:
       - is_primary: true
