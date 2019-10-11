@@ -17,7 +17,9 @@ sections:
     subtitle: >-
       Whether you came here looking for a wedding minister, to learn more about
       me, or to read a few pieces I've authored, I'm glad you're here!
-    title: '"No sower of small seeds can know the extent of his harvest." -Max Lucado'
+    title: >-
+      "No sower of small seeds can know the extent of his harvest."     -Max
+      Lucado
     type: icons
   - background_style: style2
     component: Spotlights
