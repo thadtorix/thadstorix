@@ -1,8 +1,8 @@
 ---
-title: Weddings2
+title: Weddings
 menus:
   main:
-    title: Weddings2
+    title: Weddings
     weight: 2
 template: page
 ---
