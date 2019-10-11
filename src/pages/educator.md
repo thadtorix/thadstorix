@@ -1,7 +1,7 @@
 ---
 title: Educator
 subtitle: ''
-background_style: style3
+background_style: style2
 menus:
   main:
     title: Educator
