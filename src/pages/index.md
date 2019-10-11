@@ -42,10 +42,7 @@ sections:
 
           Taking particular pride in helping others , Thad enjoys presenting
           material in a way that makes sense, and is relevant in their every day
-          lives. 
-
-
-          For more information and a list of topics, [click
+          lives.  For more information and a list of topics, [click
           here](ThadSTorix.com/Educator):
           [ThadSTorix.com/Educator](ThadSTorix.com/Educator)
         title: 'Educator, Speaker, Public Servant'
