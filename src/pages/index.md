@@ -31,7 +31,8 @@ sections:
           minister who is more than just some stranger in a suit?  You can see
           the story of how I came to take care of so many couples' big day and
           why they recommend me for the very important job of officiating your
-          wedding, right here: linktoweddingpageurl
+          wedding, [right here](https://thadstorix.com/weddings2):
+          <https://thadstorix.com/weddings2>
         title: 'Minister, Encourager'
       - home_img_path: /images/teach-dt4ems.jpg
         text: >-
@@ -44,8 +45,9 @@ sections:
           relevant in their every day lives. 
 
 
-          For more information and a list of topics, click here: speaking
-          teaching url
+          For more information and a list of topics, [click
+          here](ThadSTorix.com/Educator):
+          [ThadSTorix.com/Educator](ThadSTorix.com/Educator)
         title: 'Educator, Speaker, Public Servant'
       - home_img_path: /images/512-headshot.png
         text: >-
@@ -57,7 +59,8 @@ sections:
 
           Additionally, you can also find things I've found along the way which
           I've found helpful or exceptionally soul-stirring.  You can see those
-          posts and links right here:  blog.thadstorix.com
+          posts and links [right here](ThadSTorix.com/blog): 
+          [ThadSTorix.com/blog](ThadSTorix.com/blog)
         title: 'Things I''ve Written, Things Which Stir'
       - home_img_path: /images/logo-for-kcm.jpg
         text: >-
