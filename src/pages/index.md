@@ -20,7 +20,7 @@ sections:
       This is also a good place to learn more about the topics I enjoy teaching
       or speaking on as well as how you can hire me as your minister for your
       upcoming wedding, vow renewal, or other special ceremony!
-    title: Welcome to my slice of the internet!
+    title: ' '
     type: icons
   - background_style: style2
     component: Spotlights
