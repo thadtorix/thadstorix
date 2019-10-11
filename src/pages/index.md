@@ -7,7 +7,7 @@ banner:
     is_scrolly: true
     label: Learn More
     url: '#one'
-  subtitle: Encourager | Friend | Advocate
+  subtitle: ''
   title: Thad S. Torix
 sections:
   - background_style: null
