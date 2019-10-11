@@ -1,5 +1,5 @@
 ---
-title: Thad S. Torix - Minister
+title: Weddings
 subtitle: ''
 background_style: style5
 menus:
