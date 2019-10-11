@@ -15,12 +15,10 @@ sections:
     feature_icons: []
     section_id: one
     subtitle: >-
-      Hello! I'm glad you're here!  I hope you enjoy reading some of the things
-      I've written, or about some of the things I find a bit soul-stirring. 
-      This is also a good place to learn more about the topics I enjoy teaching
-      or speaking on as well as how you can hire me as your minister for your
-      upcoming wedding, vow renewal, or other special ceremony!
-    title: ' '
+      Whether you came here looking for a wedding minister, to learn more about
+      me, or to read a few pieces I've authored, I'm glad you're here! Scroll
+      down a bit further to see what I'm all about.
+    title: '"No sower of small seeds can know the extent of his harvest." -Max Lucado'
     type: icons
   - background_style: style2
     component: Spotlights
