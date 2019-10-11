@@ -16,15 +16,11 @@ Turns out, it went really well and I thoroughly enjoyed serving in this fashion.
 
 If you’re planning a wedding in Southwest Missouri and would like my help as an officiant, please give me a call or text at 417-213-1205. If you’d prefer to email me at ThadSTorix@gmail.com that’s fine as well but you may want to shoot me a text to let me know the email is headed my way.
 
-The information I will need from you includes:
-
-What sort of wedding you are planning? (Traditional or something else?)
-
-Where will the wedding take place? (address of the venue, or city/state)
-
-Indoor or Outdoor?
-
-A bit about what type of ceremony would you like? Simple? Traditional? Eloping?
+* The information I will need from you includes:
+* What sort of wedding you are planning? (Traditional or something else?)
+* Where will the wedding take place? (address of the venue, or city/state)
+* Indoor or Outdoor?
+* A bit about what type of ceremony would you like? Simple? Traditional? Eloping?
 
 You’ll find me to be thorough and clear in communication, and eager to make sure your special day is exactly as planned!
 
