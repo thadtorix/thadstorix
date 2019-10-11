@@ -40,10 +40,10 @@ Most messages I get are looking for more information about me, so I'm posting a 
 
 My fee varies depending on location and what is desired.  To give you a quote, I'll need to know some basic info:
 
-1. Date
-2. Location (just the city/state is fine if you haven't decided on a venue just yet)
-3. If a wedding: Type of ceremony desired (traditional/simple, old fashioned, specific faith/doctrine desires, etc.)
-4. Any additional things from me (giving a message at rehearsal or reception dinners, special honoring ceremonies, etc.)
+* Date
+* Location (just the city/state is fine if you haven't decided on a venue just yet)
+* If a wedding: Type of ceremony desired (traditional/simple, old fashioned, specific faith/doctrine desires, etc.)
+* Any additional things from me (giving a message at rehearsal or reception dinners, special honoring ceremonies, etc.)
 
 Send me the above info and I will send you an exact price.
 
@@ -55,13 +55,13 @@ That's the basics, but I think people should know more about me, and what more I
 
 The extras that are included in a traditional ceremony include:  
 
-1. My availability before during and after your big day.  Sometimes people get nervous or there's a conflict with their mate and they just need to chat with someone who is able to listen without being overly attached with one side or the other. I'm a professional encourager and am helpful in easing even the most extreme cases of nerves/anxiety/etc.
-2. I pray for you (obviously not a thing I charge for.... that'd just be weird.)  I spend time each morning in prayer for the couples who have trusted me with this role.  I'm not talking about religion and rules.  I'm talking about just praying for the well being of people and for a life full of happiness.
-3. I check in with the "Moms" (or whomever is most important to the couple), as often as needed.  I know that it's important to make sure Bride and Groom's Moms (or some version of Mom) are happy and that they know their adult children are happy.
-4. I help your photographer get the perfect shots.  Making sure your bridal party knows when to slow down and pause is super critical and many ministers miss this detail.  
-5. I help your bridal party know how to avoid passing out. Those moments are great for funny videos, but nobody wants that to happen in their wedding. I've been a paramedic my entire adult life, (over 20 years) which helps me help your bridal party stay standing for your ceremony!
-6. A special gift from me that you'll find useful in your marriage after the honeymoon phase has passed. (Couples rave about this gift and it has proven very helpful in all stages of marriage!)
-7. Perhaps most important:  I help (when asked) you write your vows.  When a bride/groom is having trouble coming up with what to say, it can be terrifying.  I'm great at getting people past writer's block.  
-8. Last, but not least, is my favorite moment in my work:  Just a bit before the ceremony, I find time with the Bride & Groom (either together or separately depending on your desire) to take a moment just before "go time".  In that moment I'll make sure you are all set and I'll pray with you.  I don't make it a big deal, just a quick and sincere prayer over each of you as you make the biggest promise of your life.  Many couples tell me later that this moment made a big difference, even when they aren't really used to religion or praying or whatever.  
+* My availability before during and after your big day.  Sometimes people get nervous or there's a conflict with their mate and they just need to chat with someone who is able to listen without being overly attached with one side or the other. I'm a professional encourager and am helpful in easing even the most extreme cases of nerves/anxiety/etc.
+* I pray for you (obviously not a thing I charge for.... that'd just be weird.)  I spend time each morning in prayer for the couples who have trusted me with this role.  I'm not talking about religion and rules.  I'm talking about just praying for the well being of people and for a life full of happiness.
+* I check in with the "Moms" (or whomever is most important to the couple), as often as needed.  I know that it's important to make sure Bride and Groom's Moms (or some version of Mom) are happy and that they know their adult children are happy.
+* I help your photographer get the perfect shots.  Making sure your bridal party knows when to slow down and pause is super critical and many ministers miss this detail.  
+* I help your bridal party know how to avoid passing out. Those moments are great for funny videos, but nobody wants that to happen in their wedding. I've been a paramedic my entire adult life, (over 20 years) which helps me help your bridal party stay standing for your ceremony!
+* A special gift from me that you'll find useful in your marriage after the honeymoon phase has passed. (Couples rave about this gift and it has proven very helpful in all stages of marriage!)
+* Perhaps most important:  I help (when asked) you write your vows.  When a bride/groom is having trouble coming up with what to say, it can be terrifying.  I'm great at getting people past writer's block.  
+* Last, but not least, is my favorite moment in my work:  Just a bit before the ceremony, I find time with the Bride & Groom (either together or separately depending on your desire) to take a moment just before "go time".  In that moment I'll make sure you are all set and I'll pray with you.  I don't make it a big deal, just a quick and sincere prayer over each of you as you make the biggest promise of your life.  Many couples tell me later that this moment made a big difference, even when they aren't really used to religion or praying or whatever.  
 
 [See reviews on Wedding Wire.](https://www.weddingwire.com/reviews/thad-torix/f0ed6829d79d9ed4.html)
