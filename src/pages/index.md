@@ -41,8 +41,8 @@ sections:
 
 
           Taking particular pride in helping others , Thad enjoys presenting
-          material in a way that not only makes sense, but is useful and
-          relevant in their every day lives. 
+          material in a way that makes sense, and is relevant in their every day
+          lives. 
 
 
           For more information and a list of topics, [click
