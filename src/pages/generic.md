@@ -4,7 +4,7 @@ subtitle: ''
 background_style: style5
 menus:
   main:
-    identifier: Weddings
+    identifier: Weddings2
     title: Weddings
     weight: 2
 template: page
