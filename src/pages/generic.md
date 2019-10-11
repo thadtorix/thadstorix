@@ -4,7 +4,7 @@ subtitle: ''
 background_style: style5
 menus:
   main:
-    title: ''
+    title: Weddings
     weight: 2
 template: page
 ---
