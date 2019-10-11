@@ -5,7 +5,7 @@ background_style: style5
 menus:
   main:
     title: Written
-    weight: 1
+    weight: 4
 template: page
 ---
 Main blog title page?
