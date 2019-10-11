@@ -10,7 +10,7 @@ banner:
   subtitle: Encourager | Friend | Advocate
   title: Thad S. Torix
 sections:
-  - background_style: style1
+  - background_style: null
     component: Icons
     feature_icons: []
     section_id: one
