@@ -67,7 +67,7 @@ sections:
         title: Were you looking for Torix Realty Group?
     title: Spotlights Section
     type: spotlights
-  - background_style: style3
+  - background_style: null
     component: Features
     features:
       - icon: fa-paper-plane-o
