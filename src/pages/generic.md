@@ -8,9 +8,9 @@ menus:
     weight: 2
 template: page
 ---
-### In 2017, great friends of ours asked if I would be the minister for their wedding
+### In 2017, great friends of ours asked if I would be the minister for their wedding in Kansas City, Missouri.
 
-in Kansas City, Missouri. Being no stranger to public speaking, and having always felt drawn to ministry, I was happy to help!
+Being no stranger to public speaking, and having always felt drawn to ministry, I was happy to help!
 
 Turns out, it went really well and I thoroughly enjoyed serving in this fashion. Since then, several people have reached out to ask if I’d be interested in serving as the minister for their big day, and I love it!
 
@@ -29,8 +29,6 @@ A bit about what type of ceremony would you like? Simple? Traditional? Eloping?
 You’ll find me to be thorough and clear in communication, and eager to make sure your special day is exactly as planned!
 
 I work hard to be more than just some stranger in a suit going through the motions. This means I take the time to get to know you just a bit and make sure no detail is missed. Relationships with my clients are the key to my success and I look forward to helping make your day the best day ever!
-
-
 
 - - -
 
