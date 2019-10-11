@@ -7,7 +7,7 @@ banner:
     is_scrolly: true
     label: Learn More
     url: '#one'
-  subtitle: Speaker | Educator | Encourager | Minister
+  subtitle: Speaker | Educator | Encourager
   title: Thad S. Torix
 sections:
   - background_style: null
