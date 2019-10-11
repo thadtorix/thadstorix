@@ -1,14 +1,13 @@
 ---
 title: Educator
 subtitle: ''
-background_style: style2
 menus:
   main:
     title: Educator
     weight: 3
 template: page
 ---
-Thad2 began his career in rural Hazelton, Idaho in 1994 in the EMS industry before moving to Southwest Missouri in the late 1990s.
+Thad began his career in rural Hazelton, Idaho in 1994 in the EMS industry before moving to Southwest Missouri in the late 1990s.
 
 Currently, you may find Thad spending time with his family on the rivers near Joplin, Missouri, motorcycling, or taking care of their fresh and saltwater aquariums.
 
