@@ -7,7 +7,7 @@ background_style: style5
 menus:
   main:
     title: Plus It
-    weight: -2
+    weight: 2
 template: page
 ---
 This phrase is inspired by Walter Elias Disney. While he was famous for many amazing feats, those who knew him also know he was famous for failing in a big way and then picking himself up and starting again. If you worked for Walt, you knew when the project was coming together, He'd be looking for ways to, "Plus It" and make it even better.
