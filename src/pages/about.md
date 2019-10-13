@@ -48,4 +48,8 @@ Although happy to speak on a wide variety of topics, Thad particularly enjoys ad
 
 - - -
 
-Contact Thad S. Torix today at [ThadSTorix@Gmail.com](mailto:thadstorix@gmail.com) or call 417-213-1205
+Contact Thad S. Torix today at [ThadSTorix@Gmail.com](mailto:thadstorix@gmail.com)
+
+![](/images/512-headshot.png)
+
+ or call 417-213-1205
