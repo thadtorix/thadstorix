@@ -30,7 +30,9 @@ Although happy to speak on a wide variety of topics, Thad particularly enjoys ad
 
 **Mindset Matters, but Does It Really?** A hard look at mindset for those of us who are a little reluctant to buy in to all the "feel good" talk out there.
 
-**Tears of Our Own** - Emotional Health of Emergency ProvidersToxic/Chronic Care
+**Tears of Our Own** - Emotional Health of Emergency Providers
+
+**Toxic/Chronic Care** - A close look at care provided that is anything but care at all
 
 **An Rx for Scenes** - How examining the first five minutes of EMS scenes can improve patient satisfaction, provider safety, interaction with colleagues and scene time.
 
@@ -46,4 +48,4 @@ Although happy to speak on a wide variety of topics, Thad particularly enjoys ad
 
 - - -
 
-Contact Thad S. Torix today at ThadSTorix@Gmail.comYou may reach Thad by email:thadstorix@gmail.com
+Contact Thad S. Torix today at [ThadSTorix@Gmail.com](mailto:thadstorix@gmail.com) or call 417-213-1205
