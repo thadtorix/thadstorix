@@ -76,8 +76,9 @@ sections:
         title: Let's Plus It!
       - home_img_path: /images/logo-for-kcm.jpg
         text: >-
-          If it's a conversation about Real Estate you're after, you'll find all
-          of that right here:
+          Whether you are looking to buy or sale real estate, or just find the
+          **best side hustle of all time**: If it's a conversation about Real
+          Estate you're after, you'll find all of that right here:
           [TorixRealtyGroup.com](http://torixrealtygroup.com)
         title: Were you looking for Torix Realty Group?
     title: Spotlights Section
