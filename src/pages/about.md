@@ -1,5 +1,6 @@
 ---
 title: 'About '
+subtitle: 'Thad S. Torix, Professional Encourager'
 background_style: style5
 menus:
   main:
@@ -18,6 +19,8 @@ Although happy to speak on a wide variety of topics, Thad particularly enjoys ad
 **Turnover Tunnel-vision** - How, and why, we so frequently miss the real reasons behind a high turnover rate in any industry.
 
 **Perspective Shift** - When and How you know it is time to adjust your team's perspective.  
+
+**Let's Get Past It** - Sometimes life deals us a tough season.  Too often, we choose to spend more time in it than we should.
 
 **Moments of Truth** - A look at the moments that really shape us and why it is too easy to miss the mark.
 
@@ -41,6 +44,6 @@ Although happy to speak on a wide variety of topics, Thad particularly enjoys ad
 
 **Just Wait for EMS** - First Responder training for Police Officers, focusing on emergencies that require action before EMS arrival.
 
-****
+- - -
 
 Contact Thad S. Torix today at ThadSTorix@Gmail.comYou may reach Thad by email:thadstorix@gmail.com
