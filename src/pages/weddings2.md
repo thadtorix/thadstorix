@@ -3,7 +3,7 @@ title: Weddings
 menus:
   main:
     title: Weddings
-    weight: 2
+    weight: 4
 template: page
 ---
 ### In 2017, great friends of ours asked if I would be the minister for their wedding in Kansas City, Missouri.
