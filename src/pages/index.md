@@ -58,12 +58,6 @@ sections:
           the meantime, you can find the old version of my work [right
           here](http://thadtorix.com/blog).
         title: 'Things I''ve Written, Things Which Stir'
-      - home_img_path: /images/logo-for-kcm.jpg
-        text: >-
-          If it's a conversation about Real Estate you're after, you'll find all
-          of that right here:
-          [TorixRealtyGroup.com](http://torixrealtygroup.com)
-        title: Were you looking for Torix Realty Group?
       - home_img_path: /images/old-dogs.jpg
         text: >-
           This phrase is inspired by Walter Elias Disney.  While he was famous
@@ -80,6 +74,12 @@ sections:
           whatever the situation, I can be part of the solution!  Learn more
           right here: http:thadstorix.com/plusit
         title: Let's Plus It!
+      - home_img_path: /images/logo-for-kcm.jpg
+        text: >-
+          If it's a conversation about Real Estate you're after, you'll find all
+          of that right here:
+          [TorixRealtyGroup.com](http://torixrealtygroup.com)
+        title: Were you looking for Torix Realty Group?
     title: Spotlights Section
     type: spotlights
   - background_style: null
