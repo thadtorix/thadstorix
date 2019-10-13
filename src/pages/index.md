@@ -44,7 +44,7 @@ sections:
           material in a way that makes sense, and is relevant in their every day
           lives.  For more information and a list of topics, [click
           here](ThadSTorix.com/Educator):
-          [ThadSTorix.com/Educator](ThadSTorix.com/Educator)
+          [ThadSTorix.com/Educator](http://ThadSTorix.com/Educator)
         title: 'Educator, Speaker, Public Servant'
       - home_img_path: /images/512-headshot.png
         text: >-
@@ -54,10 +54,9 @@ sections:
           time as a paramedic and policeman.
 
 
-          Additionally, you can also find things I've found along the way which
-          I've found helpful or exceptionally soul-stirring.  You can see those
-          posts and links [right here](ThadSTorix.com/blog): 
-          [ThadSTorix.com/blog](ThadSTorix.com/blog)
+          I'm still working on moving all of my posts over to the new page.  In
+          the meantime, you can find the old version of my work [right
+          here](http://thadtorix.com/blog).
         title: 'Things I''ve Written, Things Which Stir'
       - home_img_path: /images/logo-for-kcm.jpg
         text: >-
@@ -65,6 +64,22 @@ sections:
           of that right here:
           [TorixRealtyGroup.com](http://torixrealtygroup.com)
         title: Were you looking for Torix Realty Group?
+      - home_img_path: /images/old-dogs.jpg
+        text: >-
+          This phrase is inspired by Walter Elias Disney.  While he was famous
+          for many amazing feats, those who knew him also know he was famous for
+          failing in a big way and then picking himself up and starting again. 
+          If you worked for Walt, you knew when the project was coming together,
+          He'd be looking for ways to, "Plus It" and make it even better.  
+
+
+          It is with this philosophy in mind I work with companies both large
+          and small as we find the ways to Plus It in their business.  From real
+          problems, to just making a good product even better, I bring years of
+          creative problem solving to my consulting work.  Whatever industry,
+          whatever the situation, I can be part of the solution!  Learn more
+          right here: http:thadstorix.com/plusit
+        title: Let's Plus It!
     title: Spotlights Section
     type: spotlights
   - background_style: null
