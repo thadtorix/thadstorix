@@ -5,6 +5,10 @@ subtitle: |-
 
   <http://thadtorix.com/blog>
 background_style: style5
+menus:
+  main:
+    title: Blog
+    weight: 6
 template: page
 ---
 
