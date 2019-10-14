@@ -11,7 +11,7 @@ banner:
     Speaker | Educator | Encourager
 
 
-    ![](/images/512-headshot.png)
+    ![]()
 
 
     Banner Image: Natural Falls State Park, Oklahoma | Image Credit: Thad S.
