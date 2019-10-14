@@ -33,39 +33,6 @@ sections:
     component: Spotlights
     section_id: two
     spotlights:
-      - home_img_path: /images/rachel-kirby-kiss.jpg
-        text: >-
-          Are you looking for a minister for your big day?  Would you like a
-          minister who is more than just some stranger in a suit?  You can see
-          the story of how I came to take care of so many couples' big day and
-          why they recommend me for the very important job of officiating your
-          wedding, [right here](https://thadstorix.com/weddings2):
-          <https://thadstorix.com/weddings2>
-        title: Minister | Encourager
-      - home_img_path: /images/teach-dt4ems.jpg
-        text: >-
-          Since 1994, Thad has served as an EMT, Advanced EMT, Paramedic, Flight
-          Paramedic, 911 Dispatcher and Educator.
-
-
-          Taking particular pride in helping others , Thad enjoys presenting
-          material in a way that makes sense, and is relevant in their every day
-          lives.  For more information and a list of topics, [click
-          here](ThadSTorix.com/Educator):
-          [ThadSTorix.com/Educator](http://ThadSTorix.com/Educator)
-        title: 'Educator, Speaker, Public Servant'
-      - home_img_path: /images/512-headshot.png
-        text: >-
-          I don't write frequently enough to consider myself a "blogger"
-          although, I do write from time to time and post what I've written for
-          your consideration.  Some are from personal experiences, a few from my
-          time as a paramedic and policeman.
-
-
-          I'm still working on moving all of my posts over to the new page.  In
-          the meantime, you can find the old version of my work [right
-          here](http://thadtorix.com/blog).
-        title: 'Things I''ve Written, Things Which Stir'
       - home_img_path: /images/old-dogs.jpg
         text: >-
           This phrase is inspired by Walter Elias Disney.  While he was famous
@@ -82,6 +49,37 @@ sections:
           whatever the situation, I can be part of the solution!  Learn more
           right here: http:thadstorix.com/plusit
         title: Let's Plus It!
+      - home_img_path: /images/teach-dt4ems.jpg
+        text: >-
+          Since 1994, Thad has served as an EMT, Advanced EMT, Paramedic, Flight
+          Paramedic, 911 Dispatcher and Educator.
+
+
+          Taking particular pride in helping others , Thad enjoys presenting
+          material in a way that makes sense, and is relevant in their every day
+          lives.  For more information and a list of topics, [click
+          here](ThadSTorix.com/Educator).
+        title: Educator | Speaker
+      - home_img_path: /images/beck-bnw.jpg
+        text: >-
+          Are you looking for a minister for your big day?  Would you like a
+          minister who is more than just some stranger in a suit?  You can see
+          the story of how I came to take care of so many couples' big day and
+          why they recommend me for the very important job of officiating your
+          wedding, [right here](https://thadstorix.com/weddings2).
+        title: Minister | Encourager
+      - home_img_path: /images/512-headshot.png
+        text: >-
+          I don't write frequently enough to consider myself a "blogger"
+          although, I do write from time to time and post what I've written for
+          your consideration.  Some are from personal experiences, a few from my
+          time as a paramedic and policeman.
+
+
+          I'm still working on moving all of my posts over to the new page.  In
+          the meantime, you can find the old version of my work [right
+          here](http://thadtorix.com/blog).
+        title: 'Author '
       - home_img_path: /images/logo-for-kcm.jpg
         text: >-
           Whether you are looking to buy or sale real estate, or just find the
