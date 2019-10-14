@@ -64,7 +64,7 @@ sections:
           minister who is more than just some stranger in a suit?  You can see
           the story of how I came to take care of so many couples' big day and
           why they recommend me for the very important job of officiating your
-          wedding, [right here](https://thadstorix.com/weddings2).
+          wedding, [right here](http://thadstorix.com/weddings).
         title: Minister | Encourager
       - home_img_path: /images/512-headshot.png
         text: >-
