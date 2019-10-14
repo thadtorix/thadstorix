@@ -60,6 +60,12 @@ The extras that are included in a traditional ceremony include:
 * Perhaps most important:  I help (when asked) you write your vows.  When a bride/groom is having trouble coming up with what to say, it can be terrifying.  I'm great at getting people past writer's block.  
 * Last, but not least, is my favorite moment in my work:  Just a bit before the ceremony, I find time with the Bride & Groom (either together or separately depending on your desire) to take a moment just before "go time".  In that moment I'll make sure you are all set and I'll pray with you.  I don't make it a big deal, just a quick and sincere prayer over each of you as you make the biggest promise of your life.  Many couples tell me later that this moment made a big difference, even when they aren't really used to religion or praying or whatever.  
 
+## When you're ready to book, or have some questions, please give me a call or text at:
+
+##  417-213-1205
+
+
+
 # Check out these reviews!
 
 \---
