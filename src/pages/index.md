@@ -22,12 +22,10 @@ sections:
     component: Icons
     feature_icons: []
     section_id: one
-    subtitle: >-
-      Whether you came here looking for a wedding minister, to learn more about
-      me, or to read a few pieces I've authored, I'm glad you're here!
+    subtitle: ''
     title: >-
-      "No sower of small seeds can know the extent of his harvest."     -Max
-      Lucado
+      Welcome! Here, you'll find a bit more about me, what I spend my time
+      doing, and what I'm passionate about.
     type: icons
   - background_style: style2
     component: Spotlights
