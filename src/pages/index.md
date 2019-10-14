@@ -94,7 +94,7 @@ sections:
         text: >-
           I can’t help but appreciate what an honor I have been given in my life
           to be witness to this, and countless other moments in the lives of
-          people I’ve been able to help along the way.
+          people I’ve.... {[continue reading](http://thadstorix.com/valentines)}
         title: 'Valentines Day Collision '
       - icon: fa-laptop
         text: >-
