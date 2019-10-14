@@ -114,7 +114,8 @@ sections:
           me...
 
 
-          {[Continue reading American Kids](http://thadstorix.com/americankids)}
+          {[Continue reading American
+          Kids](https://thadstorix.com/american-kids/)}
         title: American Kids
       - icon: fa-headphones
         text: >-
