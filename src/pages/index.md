@@ -117,21 +117,6 @@ sections:
           {[Continue reading American
           Kids](https://thadstorix.com/american-kids/)}
         title: American Kids
-      - icon: fa-headphones
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: highlight 4
-      - icon: fa-heart-o
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: highlight 5
-      - icon: fa-flag-o
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: highlight 6
     section_id: three
     subtitle: ''
     title: ' '
@@ -143,8 +128,8 @@ sections:
         url: 'mailto:thadstorix@gmail.com'
       - is_primary: true
         is_scrolly: false
-        label: Read More
-        url: 'http://blog.thadstorix.com'
+        label: Facebook
+        url: 'http://facebook.com/thadstorixllc'
     background_style: style4
     component: Cta
     section_id: cta
