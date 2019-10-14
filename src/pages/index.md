@@ -90,11 +90,12 @@ sections:
   - background_style: null
     component: Features
     features:
-      - icon: fa-paper-plane-o
+      - icon: fa-book
         text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: six areas of highlight maybe
+          I can’t help but appreciate what an honor I have been given in my life
+          to be witness to this, and countless other moments in the lives of
+          people I’ve been able to help along the way.
+        title: 'Valentines Day Collision '
       - icon: fa-laptop
         text: >-
           Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
@@ -121,10 +122,8 @@ sections:
           tincidunt nullam amet leo Aenean ligula consequat consequat.
         title: highlight 6
     section_id: three
-    subtitle: >-
-      Below, you'll find a few of the more popular pages & posts from
-      ThadSTorix.com:
-    title: 'A Few Favorites '
+    subtitle: ''
+    title: ' '
     type: features
   - actions:
       - is_primary: true
