@@ -96,11 +96,16 @@ sections:
           to be witness to this, and countless other moments in the lives of
           people I’ve.... {[continue reading](http://thadstorix.com/valentines)}
         title: 'Valentines Day Collision '
-      - icon: fa-laptop
+      - icon: fa-star
         text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: Highlight 2
+          "Both of our families loved him as do we! I cannot recommend him
+          enough to you on your wedding day. He went above and beyond to help,
+          and give you a peace of mind on a hectic but wonderful day. Seriously.
+          We cannot thank him enough!"
+
+
+          {[Read more client reviews](http://thadstorix.com/reviews)}
+        title: Reviews
       - icon: fa-code
         text: >-
           Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
