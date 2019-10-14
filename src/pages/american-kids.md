@@ -6,6 +6,7 @@ menus:
   main:
     identifier: ''
     title: ''
+    weight: ''
 template: page
 ---
 Recently, I flew across the country to attend my Brother's funeral. I may write about that some time in the future, but today I'd rather tell you about my trip.
