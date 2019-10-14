@@ -106,11 +106,16 @@ sections:
 
           {[Read more client reviews](http://thadstorix.com/reviews)}
         title: Reviews
-      - icon: fa-code
+      - icon: fa-book
         text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: highlight 3
+          I pause for a moment, as I notice a few other "grown ups" in the seats
+          around us are now paying attention. Before I can respond to these two
+          young Americans, they share a little more. "My friends run around
+          me...
+
+
+          {[Continue reading American Kids](http://thadstorix.com/americankids)}
+        title: American Kids
       - icon: fa-headphones
         text: >-
           Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
