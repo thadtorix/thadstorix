@@ -41,7 +41,7 @@ sections:
           why they recommend me for the very important job of officiating your
           wedding, [right here](https://thadstorix.com/weddings2):
           <https://thadstorix.com/weddings2>
-        title: 'Minister, Encourager'
+        title: Minister | Encourager
       - home_img_path: /images/teach-dt4ems.jpg
         text: >-
           Since 1994, Thad has served as an EMT, Advanced EMT, Paramedic, Flight
