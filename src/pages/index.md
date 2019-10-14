@@ -7,7 +7,15 @@ banner:
     is_scrolly: true
     label: Learn More
     url: '#one'
-  subtitle: Speaker | Educator | Encourager
+  subtitle: >-
+    Speaker | Educator | Encourager
+
+
+    ![](/images/512-headshot.png)
+
+
+    Banner Image: Natural Falls State Park, Oklahoma | Image Credit: Thad S.
+    Torix©2015
   title: Thad S. Torix
 sections:
   - background_style: null
