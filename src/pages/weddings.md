@@ -5,7 +5,7 @@ menus:
   main:
     identifier: Weddings
     title: Weddings
-    weight: 9
+    weight: 4
 template: page
 ---
 ### Years ago, great friends of ours asked if I would be the minister for their wedding in Kansas City, Missouri.
