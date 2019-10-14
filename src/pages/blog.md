@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Author
 subtitle: |-
   Coming Soon!  In the meantime, you can find all of my old posts right here: 
 
@@ -7,7 +7,7 @@ subtitle: |-
 background_style: style5
 menus:
   main:
-    title: Blog
+    title: Author
     weight: 6
 template: page
 ---
