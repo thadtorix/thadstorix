@@ -6,7 +6,7 @@ menus:
     weight: 4
 template: page
 ---
-### In 2017, great friends of ours asked if I would be the minister for their wedding in Kansas City, Missouri.
+### Years ago, great friends of ours asked if I would be the minister for their wedding in Kansas City, Missouri.
 
 Being no stranger to public speaking, and having always felt drawn to ministry, I was happy to help!
 
