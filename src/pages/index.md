@@ -22,10 +22,10 @@ sections:
     component: Icons
     feature_icons: []
     section_id: one
-    subtitle: ''
-    title: >-
+    subtitle: >-
       Welcome! Here, you'll find a bit more about me, what I spend my time
       doing, and what I'm passionate about.
+    title: ' '
     type: icons
   - background_style: style2
     component: Spotlights
