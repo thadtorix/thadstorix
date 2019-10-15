@@ -8,7 +8,7 @@ menus:
     weight: 4
 template: page
 ---
-![](/images/beck-bnw-thumb.jpg)
+![](/images/ringhouse-part-small.jpg)
 
 ### Years ago, great friends of ours asked if I would be the minister for their wedding in Kansas City, Missouri.
 
