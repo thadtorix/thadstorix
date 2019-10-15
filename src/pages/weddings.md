@@ -16,6 +16,8 @@ Being no stranger to public speaking, and having always felt drawn to ministry, 
 
 Turns out, it went really well and I thoroughly enjoyed serving in this fashion. Since then, several people have reached out to ask if I’d be interested in serving as the minister for their big day, and I love it!
 
+![](/images/bnw-collage.jpg)
+
 **Without a doubt**, the thing I provide which I hear the most about is helping make sure you ACTUALLY REMEMBER your wedding day.  How many couples do you know who tell you their wedding day "was a blur" or they "don't really remember most of it?"  What if I told you they don't remember it because nobody knew how to make sure they did?  Don't you want to remember the most meaningful moments in your big day?  **There are SEVEN moments in your wedding you are definitely going to want to remember very clearly, and it's my job to help you make sure they are unforgettable!!**
 
 If you’re planning a wedding in Southwest Missouri and would like my help as an officiant, please give me a call or text at 417-213-1205. If you’d prefer to email me at ThadSTorix@gmail.com that’s fine as well but you may want to shoot me a text to let me know the email is headed my way.
