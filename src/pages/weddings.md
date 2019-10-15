@@ -8,6 +8,8 @@ menus:
     weight: 4
 template: page
 ---
+![](/images/beck-bnw-thumb.jpg)
+
 ### Years ago, great friends of ours asked if I would be the minister for their wedding in Kansas City, Missouri.
 
 Being no stranger to public speaking, and having always felt drawn to ministry, I was happy to help!
@@ -62,9 +64,7 @@ The extras that are included in a traditional ceremony include:
 
 ## When you're ready to book, or have some questions, please give me a call or text at:
 
-##  417-213-1205
-
-
+## 417-213-1205
 
 # Check out these reviews!
 
