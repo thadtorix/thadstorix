@@ -20,6 +20,8 @@ Turns out, it went really well and I thoroughly enjoyed serving in this fashion.
 
 **Without a doubt**, the thing I provide which I hear the most about is helping make sure you ACTUALLY REMEMBER your wedding day.  How many couples do you know who tell you their wedding day "was a blur" or they "don't really remember most of it?"  What if I told you they don't remember it because nobody knew how to make sure they did?  Don't you want to remember the most meaningful moments in your big day?  **There are SEVEN moments in your wedding you are definitely going to want to remember very clearly, and it's my job to help you make sure they are unforgettable!!**
 
+![](/images/headsmall.jpg)
+
 If you’re planning a wedding in Southwest Missouri and would like my help as an officiant, please give me a call or text at 417-213-1205. If you’d prefer to email me at ThadSTorix@gmail.com that’s fine as well but you may want to shoot me a text to let me know the email is headed my way.
 
 * The information I will need from you includes:
@@ -27,6 +29,8 @@ If you’re planning a wedding in Southwest Missouri and would like my help as a
 * Where will the wedding take place? (address of the venue, or city/state)
 * Indoor or Outdoor?
 * A bit about what type of ceremony would you like? Simple? Traditional? Eloping?
+
+![](/images/sign-here.jpg)
 
 You’ll find me to be thorough and clear in communication, and eager to make sure your special day is exactly as planned!
 
@@ -52,6 +56,8 @@ All It takes to book is the non-refundable retainer of $100.  The remainder of t
 I allow one change of date at no additional charge as long as I am not already booked for the date you are changing to. 
 
 That's the basics, but I think people should know more about me, and what more I do:
+
+![](/images/thad-and-court.jpg)
 
 The extras that are included in a traditional ceremony include:  
 
@@ -82,6 +88,8 @@ On the day of our wedding Thad met with us (separately) and our friends and fami
 
 Both of our families loved him as do we! I cannot recommend him enough to you on your wedding day. He went above and beyond to help, and give you a peace of mind on a hectic but wonderful day. Seriously. We cannot thank him enough!
 
+![](/images/time-for-a-kiss.jpg)
+
 \-Rachel F, Kansas City
 
 \---
@@ -89,6 +97,8 @@ Both of our families loved him as do we! I cannot recommend him enough to you on
 Couldn’t have picked anyone better!
 
 Thad and his wife Courtney were so wonderful to work with for the wedding! They made the process very smooth and easy from start to finish. He really made a point to check in with both my husband and I throughout the whole process and made my family feel very involved! Highly recommend to anyone looking!
+
+![](/images/ritter-pose.jpg)
 
 Morgan D, Joplin
 
@@ -98,6 +108,8 @@ Thad is a true wordsmith and as genuine as they come.
 
 Thad did an amazing job officiating our wedding. He made last minute accommodations and was sincere and helpful throughout the process. He never judged our quirky desires and went above and beyond in making us feel not only special, but important to him. I cannot recommend this man enough!
 
+![](/images/fritch-ceremony.jpg)
+
 Bruce F, Joplin
 
 \---
@@ -105,6 +117,8 @@ Bruce F, Joplin
 Sincere, personalized, professional, PERFECTION.
 
 Thad provided a very personalized and sincere wedding ceremony that fit our needs! He was able to come to our rehearsal dinner and help coordinate our hectic wedding party during rehearsal. Months leading up to the wedding Thad checked in on both me and my husband to ensure we had every need met for our wedding. I have had many friends, family, and even our wedding coordinator compliment on how amazing That was! Our ceremony was unlike any other ceremony I have seen-you could tell Thad truly catered a unique and intimate ceremony. I cannot recommend Thad enough, he is amazing.
+
+![](/images/beck-love.jpg)
 
 Anna B, Kansas City
 
