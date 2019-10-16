@@ -56,7 +56,7 @@ sections:
           Taking particular pride in helping others , Thad enjoys presenting
           material in a way that makes sense, and is relevant in their every day
           lives.  For more information and a list of topics, [click
-          here](ThadSTorix.com/Educator).
+          here](https://thadstorix.com/educator/).
         title: Educator | Speaker
       - home_img_path: /images/beck-bnw.jpg
         text: >-
