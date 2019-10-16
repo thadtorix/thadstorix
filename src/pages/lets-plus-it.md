@@ -12,7 +12,7 @@ template: page
 ---
 This phrase is inspired by Walter Elias Disney. While he was famous for many amazing feats, those who knew him also know he was famous for failing in a big way and then picking himself up and starting again. If you worked for Walt, you knew when the project was coming together, He'd be looking for ways to, "Plus It" and make it even better.
 
-It is with this philosophy in mind I work with companies both large and small as we find the ways to Plus It in their business. From real problems, to just making a good product even better, I bring years of creative problem solving to my consulting work. Whatever industry, whatever the situation, I can be part of the solution!
+It is with this philosophy in mind I work with companies both large and small as we find the ways to improve things in their business. From real, critical problems, to just making a good product even better, I bring years of creative problem solving to my consulting work. Whatever industry, whatever the situation, I can be part of the solution!
 
 The first steps are to seek understanding.  I'll spend a day or more walking in your shoes, and in the shoes of those you are working with and for, to gain clarity with realistic perspective. If we are to tackle any situation, we must seek first to understand precisely what is taking place **before** we even begin to look for solutions.  This includes a look at what is taking place right now, and how we got here.  
 
@@ -22,7 +22,7 @@ Next, it's time to have some **real talk**.  What is the real goal?  What are th
 
 **Re-Assess**.  How is our progress, are we on track or do more adjustments need to be made?
 
-****
+- - -
 
 **\---------------------------------------------------**
 
