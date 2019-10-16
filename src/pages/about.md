@@ -8,9 +8,9 @@ menus:
     weight: 5
 template: page
 ---
-![](/images/thadncourt.png)
-
 Thad began his career in rural Hazelton, Idaho in 1994 in the EMS industry before moving to Southwest Missouri in the late 1990s.  Currently, you may find Thad spending time with his family on the rivers near Joplin, Missouri, motorcycling, or taking care of their fresh and saltwater aquariums.
+
+![](/images/thadncourt.png)
 
 Over the last twenty years, Thad has served as an EMT, Advanced EMT, Paramedic, Flight Paramedic, 911 Emergency Dispatcher and a defensive tactics instructor trainer, Police Officer, Law Enforcement Instructor, and Paramedic School Educator.  \
 \
