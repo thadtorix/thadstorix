@@ -8,7 +8,7 @@ menus:
     weight: 5
 template: page
 ---
-![](/images/wedding-photos-emily-lynn-photography-253-2.jpg)
+![]()
 
 Thad began his career in rural Hazelton, Idaho in 1994 in the EMS industry before moving to Southwest Missouri in the late 1990s.  Currently, you may find Thad spending time with his family on the rivers near Joplin, Missouri, motorcycling, or taking care of their fresh and saltwater aquariums.
 
