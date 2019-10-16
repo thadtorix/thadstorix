@@ -1,12 +1,14 @@
 ---
 title: Educator
-subtitle: ''
+subtitle: 'Nobody cares how much you know, until they know how much you care.'
 menus:
   main:
     title: Educator
     weight: 3
 template: page
 ---
+![](/images/clinical-coordinator.jpg)
+
 With a passion for provider safety & emotional health, Thad enjoys to a wide variety of audiences.
 
 The following is a sampling of topics Thad teaches:\
