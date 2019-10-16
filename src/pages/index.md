@@ -31,7 +31,7 @@ sections:
     component: Spotlights
     section_id: two
     spotlights:
-      - home_img_path: /images/old-dogs.jpg
+      - home_img_path: /images/old-dogs.png
         text: >-
           This phrase is inspired by Walter Elias Disney.  While he was famous
           for many amazing feats, those who knew him also know he was famous for
