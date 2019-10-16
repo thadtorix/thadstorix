@@ -43,7 +43,7 @@ The following is a sampling of topics Thad teaches:\
 
 **Just Wait for EMS** - First Responder training for Police Officers, focusing on emergencies that require action before EMS arrival.
 
-![](/images/emt-lecture.jpg)
+![](/images/emt-lecture.png)
 
 **Looking for something else?**  Get in touch today to see if the topic you want covered is in Thad's Repertoire.
 
