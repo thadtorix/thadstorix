@@ -1,8 +1,10 @@
 ---
 title: Educator
 subtitle: 'Nobody cares how much you know, until they know how much you care.'
+background_style: style1
 menus:
   main:
+    identifier: Educator
     title: Educator
     weight: 3
 template: page
