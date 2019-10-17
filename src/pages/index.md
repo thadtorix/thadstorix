@@ -45,7 +45,7 @@ sections:
           problems, to just making a good product even better, I bring years of
           creative problem solving to my consulting work.  Whatever industry,
           whatever the situation, I can be part of the solution!  Learn more
-          right here: http:thadstorix.com/plusit
+          [right here](https://thadstorix.com/lets-plus-it/).
         title: Let's Plus It!
       - home_img_path: /images/teach-dt4ems.jpg
         text: >-
