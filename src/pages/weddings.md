@@ -14,7 +14,7 @@ template: page
 
 Being no stranger to public speaking, and having always felt drawn to ministry, I was happy to help!
 
-Turns out, it went really well and I thoroughly enjoyed serving in this fashion. Since then, several people have reached out to ask if I’d be interested in serving as the minister for their big day, and I love it!
+Turns out, it went really well and I thoroughly enjoyed serving in this fashion. Since then, many couples have trusted me to serve as the minister for their perfect day!  
 
 ![](/images/bnw-collage.jpg)
 
@@ -22,7 +22,7 @@ Turns out, it went really well and I thoroughly enjoyed serving in this fashion.
 
 ![](/images/headsmall.jpg)
 
-If you’re planning a wedding in Southwest Missouri and would like my help as an officiant, please give me a call or text at 417-213-1205. If you’d prefer to email me at ThadSTorix@gmail.com that’s fine as well but you may want to shoot me a text to let me know the email is headed my way.
+If you’re planning a wedding in Southwest Missouri, Northwest Arkansas, North Eastern Oklahoma, or South Eastern Kansas, and would like my help as your minister for your perfect day, please give me a call or text at 417-213-1205. If you’d prefer to email me at ThadSTorix@gmail.com that’s fine as well but you may want to shoot me a text to let me know the email is headed my way.
 
 * The information I will need from you includes:
 * What sort of wedding you are planning? (Traditional or something else?)
