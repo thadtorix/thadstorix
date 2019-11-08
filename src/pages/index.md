@@ -31,22 +31,6 @@ sections:
     component: Spotlights
     section_id: two
     spotlights:
-      - home_img_path: /images/old-dogs.png
-        text: >-
-          This phrase is inspired by Walter Elias Disney.  While he was famous
-          for many amazing feats, those who knew him also know he was famous for
-          failing in a big way and then picking himself up and starting again. 
-          If you worked for Walt, you knew when the project was coming together,
-          He'd be looking for ways to, "Plus It" and make it even better.  
-
-
-          It is with this philosophy in mind I work with companies both large
-          and small as we find the ways to Plus It in their business.  From real
-          problems, to just making a good product even better, I bring years of
-          creative problem solving to my consulting work.  Whatever industry,
-          whatever the situation, I can be part of the solution!  Learn more
-          [right here](https://thadstorix.com/lets-plus-it/).
-        title: Let's Plus It!
       - home_img_path: /images/teach-dt4ems.jpg
         text: >-
           Since 1994, Thad has served as an EMT, Advanced EMT, Paramedic, Flight
@@ -66,6 +50,22 @@ sections:
           why they recommend me for the very important job of officiating your
           wedding, [right here](http://thadstorix.com/weddings).
         title: Minister | Encourager
+      - home_img_path: /images/old-dogs.png
+        text: >-
+          This phrase is inspired by Walter Elias Disney.  While he was famous
+          for many amazing feats, those who knew him also know he was famous for
+          failing in a big way and then picking himself up and starting again. 
+          If you worked for Walt, you knew when the project was coming together,
+          He'd be looking for ways to, "Plus It" and make it even better.  
+
+
+          It is with this philosophy in mind I work with companies both large
+          and small as we find the ways to Plus It in their business.  From real
+          problems, to just making a good product even better, I bring years of
+          creative problem solving to my consulting work.  Whatever industry,
+          whatever the situation, I can be part of the solution!  Learn more
+          [right here](https://thadstorix.com/lets-plus-it/).
+        title: Let's Plus It!
       - home_img_path: /images/512-headshot.png
         text: >-
           I don't write frequently enough to consider myself a "blogger"
