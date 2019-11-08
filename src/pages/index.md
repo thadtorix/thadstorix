@@ -117,6 +117,13 @@ sections:
           {[Continue reading American
           Kids](https://thadstorix.com/american-kids/)}
         title: American Kids
+      - icon: fa-book
+        text: >-
+          "If he told me once, he told me a dozen times. His dad was there.
+          That’s what counted. That’s the only thing..."
+
+          {[Continue reading](https://thadstorix.com/my-dads-here/)}
+        title: My Dad's Here!
     section_id: three
     subtitle: ''
     title: ' '
