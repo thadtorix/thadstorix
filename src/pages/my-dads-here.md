@@ -7,6 +7,8 @@ menus:
     title: ''
 template: page
 ---
+{I wrote this back in '05, and have updated the wording to make more sense, over a decade later. I hope you enjoy it! -Thad}\
+\
 <p>Back in 2005, I had the joy of watching our children perform their parts in the annual Christmas program at church. I also helped keep watch over the smallest of the children, mostly pre-schoolers. Most of these two dozen or so kids were just about as restless as they could be, including my youngest daughter. They were picture perfect, trying to remember the words to the music and finding parents &amp; grandparents to wave at consumed most of their time. Except for one small boy.</p>
 <p>For the sake of privacy, we’ll call him Jack. Now the difference between Jack and the others was simple. He knew exactly where his Daddy was sitting, and he couldn’t wait to tell anyone who would listen, “My Dad is here!”</p>
 <p>Without a doubt, that one fact was exactly what brought a smile to Jack’s face.</p>
