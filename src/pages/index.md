@@ -115,7 +115,7 @@ sections:
 
 
           {[Continue reading American
-          Kids](https://thadstorix.com/american-kids/)}
+          Kids](https://blog.thadstorix.com/posts/american-kids/)}
         title: American Kids
       - icon: fa-book
         text: >-
