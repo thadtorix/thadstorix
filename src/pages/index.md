@@ -74,9 +74,9 @@ sections:
           time as a paramedic and policeman.
 
 
-          I'm still working on moving all of my posts over to the new page.  In
-          the meantime, you can find the old version of my work [right
-          here](http://thadtorix.com/blog).
+          I'm still working on moving all of my posts over to the [new
+          page](http://blog.thadstorix.com).  In the meantime, you can find the
+          old version of my work [right here](http://thadtorix.com/blog).
         title: 'Author '
       - home_img_path: /images/logo-for-kcm.jpg
         text: >-
